@@ -23,15 +23,15 @@ The goal of this project is to classify the emotions in text using a Machine Lea
 git clone https://github.com/chavanavi/Emotion_in_text-project
 
 # Before running the code, ensure you have the required libraries installed:
-1.pandas
-2.numpy
-3.altair 
-4.streamlit 
+pandas ,
+numpy ,
+altair , 
+streamlit 
 # You can install them using the following command:
-pip install pandas
-pip install numpy
-pip install seaborn 
-pip install matplotlib 
+pip install pandas ,
+pip install numpy  ,
+pip install seaborn   ,
+pip install matplotlib   ,
 pip install neattext
 
 # Data Preprocessing
