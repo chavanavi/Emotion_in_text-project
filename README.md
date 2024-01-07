@@ -1,8 +1,10 @@
-#Emotion_text-prediction
+# Emotion_text-prediction
+
 Text Emotion Classification using Machine Learning and streamlit 
 This repository contains code and analysis for text emotion classifier using Machine Learning and streamlit. The project includes data preprocessing, tokenization, bulid pipline, model architecture definition, training, and emotion prediction.
 
-Table of Contents
+# Table of Contents
+
 Introduction
 Data Preprocessing
 bulid pipline
@@ -10,12 +12,15 @@ Model Architecture
 Model Training
 Emotion Prediction
 save model & Pipline
-Introduction
+
+# Introduction
+
 The goal of this project is to classify the emotions in text using a Machine Learning model built with the streamlit framework. The project showcases the steps involved in tokenizing text, bulid pipline, training the model, and predicting emotions in input text.
 
-Prerequisites
+  Prerequisites
+
 clone the repository :
-git clone https:[//github.com/Mohshaikh23/Text-Emotions-Classification.git](https://github.com/chavanavi/Emotion_in_text-project)
+git clone https://github.com/chavanavi/Emotion_in_text-project
 Before running the code, ensure you have the required libraries installed:
 
 pandas
