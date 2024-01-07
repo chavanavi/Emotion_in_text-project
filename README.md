@@ -17,29 +17,29 @@ save model & Pipline
 
 The goal of this project is to classify the emotions in text using a Machine Learning model built with the streamlit framework. The project showcases the steps involved in tokenizing text, bulid pipline, training the model, and predicting emotions in input text.
 
-  Prerequisites
+# Prerequisites
 
-clone the repository :
+# clone the repository :
 git clone https://github.com/chavanavi/Emotion_in_text-project
-Before running the code, ensure you have the required libraries installed:
 
+# Before running the code, ensure you have the required libraries installed:
 pandas
 numpy
 altair 
 streamlit 
-You can install them using the following command:
-
+# You can install them using the following command:
 pip install pandas numpy seaborn  matplotlib neattext
-Data Preprocessing
+
+# Data Preprocessing
 The code starts with loading and preprocessing text data. It tokenizes the text, pads sequences, encodes labels, and prepares the data for model training.
 
-Model Architecture
+# Model Architecture
 The neural network model architecture is defined using the streamlit . It consists of an defined using the Pipline specified activation functions.
 
-Model Training
+# Model Training
 The model is compiled LogisticRegression function, then trained using the prepared training data. Validation data is used to monitor the model's performance during training.
 
-Emotion Prediction
+# Emotion Prediction
 The trained model is used to predict emotions in input text. An example input text is preprocessed, and the model predicts the corresponding emotions emoji .
 
 
